@@ -1,0 +1,17 @@
+<Query>
+ <SubmitOrder>
+<InstrumentCode>EPLY</InstrumentCode>
+<ClientAccountReference>1005586</ClientAccountReference>
+<ClientCodeOrAccountNumber>A</ClientCodeOrAccountNumber>
+<DealerCode>CCM</DealerCode>
+<MemberCode>MAYB</MemberCode>
+<BuyOrSell>B</BuyOrSell>
+<Quantity>100</Quantity>
+<IceBergQuantity>0</IceBergQuantity>
+<Price>650</Price>
+<BidType>0</BidType>
+<ExpiryDate>2016-12-31</ExpiryDate>
+<CancelFlag>1</CancelFlag>
+<OrderReference>API20161026040516</OrderReference>                           
+</SubmitOrder>
+</Query>

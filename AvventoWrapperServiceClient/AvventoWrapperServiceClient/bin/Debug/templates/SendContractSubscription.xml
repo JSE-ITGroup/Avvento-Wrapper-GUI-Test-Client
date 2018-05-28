@@ -1,0 +1,11 @@
+<Query>
+<SendContractSubscription>
+<Instruments>
+<InstrumentCode><InstrumentCode>
+<InstrumentCode><InstrumentCode>
+</Instruments>
+<MemberCode></MemberCode>
+<DealerCode></DealerCode>
+<NumOfItems></NumOfItems>
+</SendContractSubscription>
+</Query>

@@ -1,0 +1,17 @@
+<Query>
+ <SubmitOrder>
+<InstrumentCode>@InstrumentCode</InstrumentCode>
+<ClientAccountReference>@ClientAccountReference</ClientAccountReference>
+<ClientCodeOrAccountNumber>@ClientCodeOrAccountNumber</ClientCodeOrAccountNumber>
+<DealerCode>@DealerCode</DealerCode>
+<MemberCode>@MemberCode</MemberCode>
+<BuyOrSell>@BuyOrSell</BuyOrSell>
+<Quantity>@Quantity</Quantity>
+<IceBergQuantity>@IceBergQuantity</IceBergQuantity>
+<Price>@Price</Price>
+<BidType>@BidType</BidType>
+<ExpiryDate>@ExpiryDate</ExpiryDate>
+<CancelFlag>@CancelFlag</CancelFlag>
+<OrderReference>@OrderReference</OrderReference>                           
+</SubmitOrder>
+</Query>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Query>
+  <EditSuspendedOrder>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <ActiveOrderId>100003862</ActiveOrderId>
+    <ClientAccountReference>LWL803</ClientAccountReference>
+    <ClientCodeOrAccountNumber>c</ClientCodeOrAccountNumber>
+    <BuyOrSell>B</BuyOrSell>
+    <Price>3.141595</Price>
+    <Quantity>1200</Quantity>
+    <Reference>123456</Reference>
+    <DealerCode>CCM</DealerCode>
+    <MemberCode>MAYB</MemberCode>
+  </EditSuspendedOrder>
+</Query>

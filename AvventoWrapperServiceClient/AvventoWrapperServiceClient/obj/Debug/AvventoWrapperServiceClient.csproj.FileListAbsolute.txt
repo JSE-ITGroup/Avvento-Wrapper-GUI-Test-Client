@@ -1,0 +1,41 @@
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperServiceClient.exe.config
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.csprojResolveAssemblyReference.cache
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.Properties.Resources.resources
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.csproj.GenerateResource.Cache
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.ClientLoginForm.resources
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.Form1.resources
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperServiceClient.exe
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperServiceClient.pdb
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.exe
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperServiceClient.pdb
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.exe.config
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.exe
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.pdb
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.exe
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.pdb
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csprojResolveAssemblyReference.cache
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.ClientLoginForm.resources
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.Form1.resources
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.Properties.Resources.resources
+C:\My Projects\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csproj.GenerateResource.Cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.exe.config
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csprojResolveAssemblyReference.cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.ClientLoginForm.resources
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.Form1.resources
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.Properties.Resources.resources
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csproj.GenerateResource.Cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.exe.config
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.exe
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\bin\Debug\AvventoWrapperServiceClient.pdb
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.ClientLoginForm.resources
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.Form1.resources
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.Properties.Resources.resources
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csproj.GenerateResource.Cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.exe
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperServiceClient\AvventoWrapperServiceClient\obj\Debug\AvventoWrapperServiceClient.pdb

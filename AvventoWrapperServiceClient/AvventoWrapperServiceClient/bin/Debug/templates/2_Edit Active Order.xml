@@ -1,0 +1,16 @@
+<Query>
+  <EditActiveOrder>
+    <InstrumentCode>CAC</InstrumentCode>
+    <ActiveOrderId>100003868</ActiveOrderId>
+<ClientAccountReference>LWL803</ClientAccountReference>
+<ClientCodeOrAccountNumber>c</ClientCodeOrAccountNumber>
+    <BuyOrSell>B</BuyOrSell>
+    <Price>12</Price>
+    <Quantity>450</Quantity>
+    <DealerCode>CCM</DealerCode>
+    <MemberCode>MAYB</MemberCode>
+    <CancelFlag>1</CancelFlag>
+    <OrderReferenceNumber>123456</OrderReferenceNumber>
+    <AdditionalOrderReferenceNumber>654321</AdditionalOrderReferenceNumber>
+  </EditActiveOrder>
+</Query>

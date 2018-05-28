@@ -1,0 +1,6 @@
+<Query>
+<DataDownload>
+<DataType>@DataType</DataType>
+<StartDate>@DownloadDate</StartDate>
+</DataDownload>
+</Query>

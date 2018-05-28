@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Query>
+  <SuspendActiveOrder>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <ActiveOrderId>100003863</ActiveOrderId>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <UserReference>123</UserReference>
+    <BuyOrSell>B</BuyOrSell>
+  </SuspendActiveOrder>
+</Query>

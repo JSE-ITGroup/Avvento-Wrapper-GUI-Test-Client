@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>516</ResponseCode>
+  <Message>Unable to locate client Code associated with the specified Account Number: The supplied client reference value: 1005586  cannot be found'</Message>
+  <Reason>The supplied Account Number could not be not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>516</ResponseCode>
+  <Message>Unable to locate client Code associated with the specified Account Number: The supplied client reference value: 113424  cannot be found'</Message>
+  <Reason>The supplied Account Number could not be not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: HL</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: MCL</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SubmitOrders&gt;
+  &lt;InstrumentCode&gt;EPLY&lt;/InstrumentCode&gt;
+  &lt;ClientAccountReference&gt;1005586&lt;/ClientAccountReference&gt;
+  &lt;ClientCodeOrAccountNumber&gt;A&lt;/ClientCodeOrAccountNumber&gt;
+  &lt;DealerCode&gt;CCM&lt;/DealerCode&gt;
+  &lt;MemberCode&gt;MAYB&lt;/MemberCode&gt;
+  &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+  &lt;Quantity&gt;100&lt;/Quantity&gt;
+  &lt;IceBergQuantity&gt;0&lt;/IceBergQuantity&gt;
+  &lt;Price&gt;650&lt;/Price&gt;
+  &lt;BidType&gt;0&lt;/BidType&gt;
+  &lt;ExpiryDate&gt;2016-12-31&lt;/ExpiryDate&gt;
+  &lt;CancelFlag&gt;1&lt;/CancelFlag&gt;
+  &lt;OrderReference&gt;API20161026040516&lt;/OrderReference&gt;
+&lt;/SubmitOrders&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SubmitOrders&gt;
+  &lt;Order&gt;
+    &lt;InstrumentCode&gt;EPLY&lt;/InstrumentCode&gt;
+    &lt;ClientAccountReference&gt;1005586&lt;/ClientAccountReference&gt;
+    &lt;ClientCodeOrAccountNumber&gt;A&lt;/ClientCodeOrAccountNumber&gt;
+    &lt;DealerCode&gt;CCM&lt;/DealerCode&gt;
+    &lt;MemberCode&gt;MAYB&lt;/MemberCode&gt;
+    &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+    &lt;Quantity&gt;100&lt;/Quantity&gt;
+    &lt;IceBergQuantity&gt;0&lt;/IceBergQuantity&gt;
+    &lt;Price&gt;650&lt;/Price&gt;
+    &lt;BidType&gt;0&lt;/BidType&gt;
+    &lt;ExpiryDate&gt;2016-12-31&lt;/ExpiryDate&gt;
+    &lt;CancelFlag&gt;1&lt;/CancelFlag&gt;
+    &lt;OrderReference&gt;API20161026040516&lt;/OrderReference&gt;
+  &lt;/Order&gt;
+&lt;/SubmitOrders&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SubmitOrders&gt;
+  &lt;Order&gt;
+    &lt;InstrumentCode&gt;EPLY&lt;/InstrumentCode&gt;
+    &lt;ClientAccountReference&gt;1005586&lt;/ClientAccountReference&gt;
+    &lt;ClientCodeOrAccountNumber&gt;A&lt;/ClientCodeOrAccountNumber&gt;
+    &lt;DealerCode&gt;CCM&lt;/DealerCode&gt;
+    &lt;MemberCode&gt;MAYB&lt;/MemberCode&gt;
+    &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+    &lt;Quantity&gt;100&lt;/Quantity&gt;
+    &lt;IceBergQuantity&gt;0&lt;/IceBergQuantity&gt;
+    &lt;Price&gt;650&lt;/Price&gt;
+    &lt;BidType&gt;0&lt;/BidType&gt;
+    &lt;ExpiryDate&gt;2016-12-31&lt;/ExpiryDate&gt;
+    &lt;CancelFlag&gt;1&lt;/CancelFlag&gt;
+    &lt;OrderReference&gt;API20161026040516&lt;/OrderReference&gt;
+  &lt;/Order&gt;
+&lt;/SubmitOrders&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SubmitOrders&gt;
+  &lt;Order&gt;
+    &lt;InstrumentCode&gt;EPLY&lt;/InstrumentCode&gt;
+    &lt;ClientAccountReference&gt;1005586&lt;/ClientAccountReference&gt;
+    &lt;ClientCodeOrAccountNumber&gt;A&lt;/ClientCodeOrAccountNumber&gt;
+    &lt;DealerCode&gt;CCM&lt;/DealerCode&gt;
+    &lt;MemberCode&gt;MAYB&lt;/MemberCode&gt;
+    &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+    &lt;Quantity&gt;100&lt;/Quantity&gt;
+    &lt;IceBergQuantity&gt;0&lt;/IceBergQuantity&gt;
+    &lt;Price&gt;650&lt;/Price&gt;
+    &lt;BidType&gt;0&lt;/BidType&gt;
+    &lt;ExpiryDate&gt;2016-12-31&lt;/ExpiryDate&gt;
+    &lt;CancelFlag&gt;1&lt;/CancelFlag&gt;
+    &lt;OrderReference&gt;API20161026040516&lt;/OrderReference&gt;
+  &lt;/Order&gt;
+&lt;/SubmitOrders&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SubmitOrders&gt;
+  &lt;Order&gt;
+    &lt;InstrumentCode&gt;EPLY&lt;/InstrumentCode&gt;
+    &lt;ClientAccountReference&gt;1005586&lt;/ClientAccountReference&gt;
+    &lt;ClientCodeOrAccountNumber&gt;A&lt;/ClientCodeOrAccountNumber&gt;
+    &lt;DealerCode&gt;CCM&lt;/DealerCode&gt;
+    &lt;MemberCode&gt;MAYB&lt;/MemberCode&gt;
+    &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+    &lt;Quantity&gt;100&lt;/Quantity&gt;
+    &lt;IceBergQuantity&gt;0&lt;/IceBergQuantity&gt;
+    &lt;Price&gt;650&lt;/Price&gt;
+    &lt;BidType&gt;0&lt;/BidType&gt;
+    &lt;ExpiryDate&gt;2016-12-31&lt;/ExpiryDate&gt;
+    &lt;CancelFlag&gt;1&lt;/CancelFlag&gt;
+    &lt;OrderReference&gt;API20161026040516&lt;/OrderReference&gt;
+  &lt;/Order&gt;
+&lt;/SubmitOrders&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SubmitOrders&gt;
+  &lt;Order&gt;
+    &lt;InstrumentCode&gt;EPLY&lt;/InstrumentCode&gt;
+    &lt;ClientAccountReference&gt;1005586&lt;/ClientAccountReference&gt;
+    &lt;ClientCodeOrAccountNumber&gt;A&lt;/ClientCodeOrAccountNumber&gt;
+    &lt;DealerCode&gt;CCM&lt;/DealerCode&gt;
+    &lt;MemberCode&gt;MAYB&lt;/MemberCode&gt;
+    &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+    &lt;Quantity&gt;100&lt;/Quantity&gt;
+    &lt;IceBergQuantity&gt;0&lt;/IceBergQuantity&gt;
+    &lt;Price&gt;650&lt;/Price&gt;
+    &lt;BidType&gt;0&lt;/BidType&gt;
+    &lt;ExpiryDate&gt;2016-12-31&lt;/ExpiryDate&gt;
+    &lt;CancelFlag&gt;1&lt;/CancelFlag&gt;
+    &lt;OrderReference&gt;API20161026040516&lt;/OrderReference&gt;
+  &lt;/Order&gt;
+&lt;/SubmitOrders&gt; </Reason>
+</ActionResponse>
+System.Collections.Generic.List`1[AvventoWebService.BulkOrderActionResponse]
+System.Collections.Generic.List`1[AvventoWebService.BulkOrderActionResponse]
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+System.Collections.Generic.List`1[AvventoWebService.BulkOrderActionResponse]
+System.Collections.Generic.List`1[AvventoWebService.BulkOrderActionResponse]
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Message>Success</Message>
+  <Reason />
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Message>Success</Message>
+  <Reason />
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Message>Invalid Indices Subscription Action</Message>
+  <Reason>The Subscription Action supplied  is not Found</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>516</ResponseCode>
+  <Message>Unable to locate client Code associated with the specified Account Number: The supplied client reference value: 1005586  cannot be found'</Message>
+  <Reason>The supplied Account Number could not be not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>515</ResponseCode>
+  <Message>Invalid XML Structure for Action: SUBMIT ORDER</Message>
+  <Reason>The element 'SubmitOrder' has invalid child element 'ClientCode'. List of possible elements expected: 'DealerCode, ClientCodeOrAccountNumber, Quantity, OrderReference, ClientAccountReference, CancelFlag, Price, BidType, MemberCode, ExpiryDate, IceBergQuantity, BuyOrSell'.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>515</ResponseCode>
+  <Message>Invalid XML Structure for Action: SUBMIT ORDER</Message>
+  <Reason>The element 'SubmitOrder' has invalid child element 'OrderReferenceNumber'. List of possible elements expected: 'ClientCodeOrAccountNumber, OrderReference, ClientAccountReference, ExpiryDate'.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>515</ResponseCode>
+  <Message>Invalid XML Structure for Action: SUBMIT ORDER</Message>
+  <Reason>The element 'SubmitOrder' has invalid child element 'PrincipalOrAgency'. List of possible elements expected: 'ClientCodeOrAccountNumber, OrderReference, ClientAccountReference, ExpiryDate'.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>515</ResponseCode>
+  <Message>Invalid XML Structure for Action: SUBMIT ORDER</Message>
+  <Reason>The element 'SubmitOrder' has incomplete content. List of possible elements expected: 'ClientCodeOrAccountNumber, ClientAccountReference'.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>502</ResponseCode>
+  <Message>Invalid Supplied Xml String</Message>
+  <Reason>Root Node '&lt;Query&gt;' is missing</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>49</ResponseCode>
+  <Message>ErrorNumber: 49 Message Trading on this contract is closed (EVH14 TOAD).
+
+ Order Reference API201610</Message>
+  <Reason>Order rejected due to a business rule validation</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Updated</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>1000</ResponseCode>
+  <Message>ErrorNumber: 1000 Message System.Exception: The buyer's account reported must be the same as the one linked to the specified buy order
+Correct your input and try again
+
+   at nsDependIntegration.DependIntegrationClass.ProcessTrade(Boolean isFreeOfValue, String ExchangeReferenc Order Reference API201610</Message>
+  <Reason>Order rejected due to a business rule validation</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;CancelOrSuspendOrder&gt;
+  &lt;InstrumentCode&gt;LASM&lt;/InstrumentCode&gt;
+  &lt;ActiveOrderId&gt;100091378&lt;/ActiveOrderId&gt;
+  &lt;MemberCode&gt;JMMB&lt;/MemberCode&gt;
+  &lt;DealerCode&gt;CCJ&lt;/DealerCode&gt;
+  &lt;UserReference&gt;157&lt;/UserReference&gt;
+  &lt;BuyOrSell&gt;B&lt;/BuyOrSell&gt;
+&lt;/CancelOrSuspendOrder&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Updated</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>504</ResponseCode>
+  <Message>Invalid Action</Message>
+  <Reason>There is no definition for the supplied action  : &lt;SendIndicesSubscription&gt;&lt;/SendIndicesSubscription&gt; </Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>22</ResponseCode>
+  <Message>ErrorNumber: 22 Message Bid/Ask at (650.00) on contract EPLY was out of market limits [8.77; 16.29] , the order will be deleted
+
+ Order Reference API201610</Message>
+  <Reason>Order rejected due to a business rule validation</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>1000</ResponseCode>
+  <Message>ErrorNumber: 1000 Message Insufficient free securities available for this operation (Account ID:100558)
+Securities are too few or are blocked
+
+ Order Reference API201610</Message>
+  <Reason>Order rejected due to a business rule validation</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Inserted</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Updated</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Inserted</Reason>
+</ActionResponse>

@@ -1,0 +1,24 @@
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe.config
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.pdb
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.Form1.resources
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.Properties.Resources.resources
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.csproj.GenerateResource.Cache
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.exe
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.pdb
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.ClientLoginForm.resources
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.csprojResolveAssemblyReference.cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe.config
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.pdb
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe.config
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.ClientLoginForm.resources
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.Form1.resources
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.Properties.Resources.resources
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.csproj.GenerateResource.Cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.exe
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.pdb
+C:\Users\au_xavier.watson\source\repos\Avvento Wrapper GUI Test Client\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.pdb

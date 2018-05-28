@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfCompletedOrdersData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CompletedOrdersData>
+    <OrderId>100000257</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BIRM</Member>
+    <Dealer>MSW</Dealer>
+    <ClientCode>PKN778</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>S</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>1700</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000003   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>1700</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>1445</Consideration>
+    <SAFReference>01A00093A</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000003</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>206300840</TradeLeg>
+    <MatchReference>247890597</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>PKN778</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>2/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>A</PrincipleAgency>
+    <SpotPrice>0.8</SpotPrice>
+    <Hitter>true</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000258</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BARI</Member>
+    <Dealer>HWB</Dealer>
+    <ClientCode>AAK858</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>B</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>1700</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000003   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>1700</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>1445</Consideration>
+    <SAFReference>01A00093B</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000003</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>327046836</TradeLeg>
+    <MatchReference>247890597</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>AAK858</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>4/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>P</PrincipleAgency>
+    <SpotPrice>0.8</SpotPrice>
+    <Hitter>false</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000259</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BIRM</Member>
+    <Dealer>MSW</Dealer>
+    <ClientCode>PKN778</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>S</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000002   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>300</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>255</Consideration>
+    <SAFReference>01A00094A</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000002</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>626717984</TradeLeg>
+    <MatchReference>988606356</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>PKN778</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>2/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>A</PrincipleAgency>
+    <SpotPrice>0.85</SpotPrice>
+    <Hitter>true</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000260</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BARI</Member>
+    <Dealer>HWB</Dealer>
+    <ClientCode>AAK858</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>B</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000003   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>300</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>255</Consideration>
+    <SAFReference>01A00094B</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000003</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>939049719</TradeLeg>
+    <MatchReference>988606356</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>AAK858</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>4/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>P</PrincipleAgency>
+    <SpotPrice>0.85</SpotPrice>
+    <Hitter>false</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000261</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BARI</Member>
+    <Dealer>HWB</Dealer>
+    <ClientCode>AAK858</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>B</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000003   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>400</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>340</Consideration>
+    <SAFReference>01A00095A</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000003</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>844591249</TradeLeg>
+    <MatchReference>514387356</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>AAK858</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>4/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>P</PrincipleAgency>
+    <SpotPrice>0.85</SpotPrice>
+    <Hitter>true</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000262</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BIRM</Member>
+    <Dealer>MSW</Dealer>
+    <ClientCode>PKN778</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>S</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000002   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>400</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>340</Consideration>
+    <SAFReference>01A00095B</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000002</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>544913348</TradeLeg>
+    <MatchReference>514387356</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>PKN778</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>2/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>A</PrincipleAgency>
+    <SpotPrice>0.85</SpotPrice>
+    <Hitter>false</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000263</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BIRM</Member>
+    <Dealer>MSW</Dealer>
+    <ClientCode>PKN778</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>S</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000003   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>300</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>255</Consideration>
+    <SAFReference>01A00096A</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000003</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>010665492</TradeLeg>
+    <MatchReference>146940117</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>PKN778</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>2/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>A</PrincipleAgency>
+    <SpotPrice>0.85</SpotPrice>
+    <Hitter>true</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+  <CompletedOrdersData>
+    <OrderId>100000264</OrderId>
+    <InTime />
+    <ClearingMember>JSECC</ClearingMember>
+    <Member>BARI</Member>
+    <Dealer>HWB</Dealer>
+    <ClientCode>AAK858</ClientCode>
+    <AccountNumber />
+    <BuyOrSell>B</BuyOrSell>
+    <State>&#x0;</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Rate>0.85</Rate>
+    <OrderReference>000003   </OrderReference>
+    <ExchangeSuffix>0</ExchangeSuffix>
+    <SubAccount />
+    <OriginalQuantity>300</OriginalQuantity>
+    <DealtRate>0.85</DealtRate>
+    <DealtPrice>0.85</DealtPrice>
+    <Consideration>255</Consideration>
+    <SAFReference>01A00096B</SAFReference>
+    <CarryRate>0</CarryRate>
+    <AdditionalUserReference>000003</AdditionalUserReference>
+    <SettlementDate>2016-12-26T00:00:00</SettlementDate>
+    <TradeDate>2016-12-21T00:00:00</TradeDate>
+    <TradeTime />
+    <TradeLeg>796629350</TradeLeg>
+    <MatchReference>146940117</MatchReference>
+    <EqualOppositeUnex />
+    <IDBUnex />
+    <MatchDate>2016-12-21T00:00:00</MatchDate>
+    <MatchTime />
+    <Counterparty>AAK858</Counterparty>
+    <Price>0.85</Price>
+    <BDAAccountNumber>4/C</BDAAccountNumber>
+    <Script>false</Script>
+    <Cancelled>false</Cancelled>
+    <Origin>O</Origin>
+    <Reason>N</Reason>
+    <PrincipleAgency>P</PrincipleAgency>
+    <SpotPrice>0.85</SpotPrice>
+    <Hitter>false</Hitter>
+    <BookingFeeFlag>&#x0;</BookingFeeFlag>
+    <Delta>1</Delta>
+    <CleanPrice>0.85</CleanPrice>
+    <AccruedInterest>0</AccruedInterest>
+    <SpotContractId>0</SpotContractId>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <BaseRateCode />
+    <InterestSpread>0</InterestSpread>
+    <ActiveOrderFilledId>0</ActiveOrderFilledId>
+  </CompletedOrdersData>
+</ArrayOfCompletedOrdersData>

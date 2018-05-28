@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfLiveIndexPricesData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LiveIndexPricesData>
+    <IndexCode>JSE-INDEX</IndexCode>
+    <IndexDescription>JSE MAIN INDEX</IndexDescription>
+    <IndexPrice>244945.82</IndexPrice>
+    <OpeningPrice>183458.74</OpeningPrice>
+    <TotalMarketCap>881114404187.85</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:44</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JSE-COMBINED</IndexCode>
+    <IndexDescription>JSE COMBINED-INDEX</IndexDescription>
+    <IndexPrice>258945.15</IndexPrice>
+    <OpeningPrice>199516.96</OpeningPrice>
+    <TotalMarketCap>1004214231660.25</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:44</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JSE-JUNIOR</IndexCode>
+    <IndexDescription>JSE JUNIOR MARKET INDEX</IndexDescription>
+    <IndexPrice>2503.91</IndexPrice>
+    <OpeningPrice>2475.04</OpeningPrice>
+    <TotalMarketCap>99636846255.9</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:44</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JSE-COMPOSITE</IndexCode>
+    <IndexDescription>JSE ALL JAMAICAN COMPOSITE INDEX</IndexDescription>
+    <IndexPrice>278778.18</IndexPrice>
+    <OpeningPrice>202183.04</OpeningPrice>
+    <TotalMarketCap>890859222070.74</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:44</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JSE-USD EQUITY </IndexCode>
+    <IndexDescription>JSE USD DENOMINATED EQUITIES INDEX</IndexDescription>
+    <IndexPrice>148.15</IndexPrice>
+    <OpeningPrice>148.53</OpeningPrice>
+    <TotalMarketCap>127979471.8</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:44</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JSE-SELECT</IndexCode>
+    <IndexDescription>JSE SELECT INDEX</IndexDescription>
+    <IndexPrice>11520.53</IndexPrice>
+    <OpeningPrice>8131.37</OpeningPrice>
+    <TotalMarketCap>834865010677.47</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:44</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JSE-X LISTED</IndexCode>
+    <IndexDescription>JSE CROSS LISTED INDEX</IndexDescription>
+    <IndexPrice>499.06</IndexPrice>
+    <OpeningPrice>499.06</OpeningPrice>
+    <TotalMarketCap>3746477040</TotalMarketCap>
+    <TradeDate>2016-12-07T00:01:43</TradeDate>
+  </LiveIndexPricesData>
+</ArrayOfLiveIndexPricesData>
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfLiveIndexPricesData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LiveIndexPricesData>
+    <IndexCode>SELECT INDEX</IndexCode>
+    <IndexDescription>JSE SELECT INDEX</IndexDescription>
+    <IndexPrice>7354.02</IndexPrice>
+    <OpeningPrice>7354.02</OpeningPrice>
+    <TotalMarketCap>684284498587.68</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>JUNIOR MARKET</IndexCode>
+    <IndexDescription>JUNIOR MARKET INDEX</IndexDescription>
+    <IndexPrice>2438.43</IndexPrice>
+    <OpeningPrice>2438.43</OpeningPrice>
+    <TotalMarketCap>97184914070.19</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>COMBINED INDEX</IndexCode>
+    <IndexDescription>COMBINED-INDEX</IndexDescription>
+    <IndexPrice>221880.47</IndexPrice>
+    <OpeningPrice>221882.06</OpeningPrice>
+    <TotalMarketCap>860673762258.37</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>US EQUITIES</IndexCode>
+    <IndexDescription>USD DENOMINATED EQUITIES INDEX</IndexDescription>
+    <IndexPrice>144.17</IndexPrice>
+    <OpeningPrice>144.17</OpeningPrice>
+    <TotalMarketCap>124568823.28</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>MAIN INDEX</IndexCode>
+    <IndexDescription>MAIN INDEX</IndexDescription>
+    <IndexPrice>215046.64</IndexPrice>
+    <OpeningPrice>215046.64</OpeningPrice>
+    <TotalMarketCap>773574972450.27</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>ALL JAMAICAN</IndexCode>
+    <IndexDescription>ALL JAMAICAN COMPOSITE INDEX</IndexDescription>
+    <IndexPrice>235953.58</IndexPrice>
+    <OpeningPrice>235953.58</OpeningPrice>
+    <TotalMarketCap>758963711994.27</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+  <LiveIndexPricesData>
+    <IndexCode>CROSS LISTED</IndexCode>
+    <IndexDescription>CROSS LISTED INDEX</IndexDescription>
+    <IndexPrice>1946.35</IndexPrice>
+    <OpeningPrice>1946.35</OpeningPrice>
+    <TotalMarketCap>14611260456</TotalMarketCap>
+    <TradeDate>2016-12-28T05:00:47</TradeDate>
+  </LiveIndexPricesData>
+</ArrayOfLiveIndexPricesData>

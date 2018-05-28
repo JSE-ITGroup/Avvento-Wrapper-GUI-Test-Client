@@ -1,0 +1,4296 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfActiveOrderData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ActiveOrderData>
+    <ActiveOrderId>100004257</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1495803</AccountNumber>
+    <ClientCode>LEL742</ClientCode>
+    <State>A</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>JBG</InstrumentCode>
+    <Quote>35</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004142</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>PTT</DealerCode>
+    <AccountNumber>1899798</AccountNumber>
+    <ClientCode>XMH402</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>NCBJ</InstrumentCode>
+    <Quote>20</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-04-11T00:00:00</ExpiryDate>
+    <AdditionalReference>000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004239</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>CCJ</DealerCode>
+    <AccountNumber>1249655</AccountNumber>
+    <ClientCode>SMQ786</ClientCode>
+    <State>A</State>
+    <Quantity>96000</Quantity>
+    <InstrumentCode>NCBJ</InstrumentCode>
+    <Quote>40</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000113</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-04T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004237</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>CCJ</DealerCode>
+    <AccountNumber>1249655</AccountNumber>
+    <ClientCode>SMQ786</ClientCode>
+    <State>A</State>
+    <Quantity>100500</Quantity>
+    <InstrumentCode>BRG</InstrumentCode>
+    <Quote>5.98</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000111</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-04T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004238</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>CCJ</DealerCode>
+    <AccountNumber>1249655</AccountNumber>
+    <ClientCode>SMQ786</ClientCode>
+    <State>A</State>
+    <Quantity>100500</Quantity>
+    <InstrumentCode>CBNY</InstrumentCode>
+    <Quote>0.2</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000112</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-04T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004258</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>A</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime>"(</InTime>
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004259</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>A</State>
+    <Quantity>250</Quantity>
+    <InstrumentCode>KLE</InstrumentCode>
+    <Quote>50</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime>#</InTime>
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003869</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003892</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>CAC</InstrumentCode>
+    <Quote>1500</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003893</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <Quote>1500</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003894</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>150</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003895</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>1050</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003896</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>SIJL</InstrumentCode>
+    <Quote>150</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003897</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>RJR</InstrumentCode>
+    <Quote>350</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003904</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003905</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KLE</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003906</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>CAC</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003908</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>1064</Quantity>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <Quote>0</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>161122001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003961</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>360</Quantity>
+    <InstrumentCode>CAC</InstrumentCode>
+    <Quote>0</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>161122001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003962</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1005586</AccountNumber>
+    <ClientCode>LWL803</ClientCode>
+    <State>S</State>
+    <Quantity>631</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>0</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>161122001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference />
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004041</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1119601</AccountNumber>
+    <ClientCode>AAB464</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>138SLVR</InstrumentCode>
+    <Quote>4.98</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004042</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1119601</AccountNumber>
+    <ClientCode>AAB464</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>1834</InstrumentCode>
+    <Quote>1.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004043</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1003979</AccountNumber>
+    <ClientCode>AAA208</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>138SL</InstrumentCode>
+    <Quote>2</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004044</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1119601</AccountNumber>
+    <ClientCode>AAB464</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>4.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004045</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1897784</AccountNumber>
+    <ClientCode>AAB660</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BRG</InstrumentCode>
+    <Quote>5.98</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004046</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1897784</AccountNumber>
+    <ClientCode>AAB660</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>138SL</InstrumentCode>
+    <Quote>2</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004047</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1897784</AccountNumber>
+    <ClientCode>AAB660</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>138SLVR</InstrumentCode>
+    <Quote>4.97</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004048</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1119593</AccountNumber>
+    <ClientCode>AAO510</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>1834</InstrumentCode>
+    <Quote>1.49</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-22T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004105</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>STT</DealerCode>
+    <AccountNumber>1682806</AccountNumber>
+    <ClientCode>ABS028</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>67.55</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004106</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>STT</DealerCode>
+    <AccountNumber>1119601</AccountNumber>
+    <ClientCode>AAB464</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>JP</InstrumentCode>
+    <Quote>17.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004232</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>MOT</DealerCode>
+    <AccountNumber>1269372</AccountNumber>
+    <ClientCode>AAA964</ClientCode>
+    <State>A</State>
+    <Quantity>6700</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>67.55</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004236</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>MOT</DealerCode>
+    <AccountNumber>1178516</AccountNumber>
+    <ClientCode>JDL838</ClientCode>
+    <State>A</State>
+    <Quantity>3200</Quantity>
+    <InstrumentCode>KEX</InstrumentCode>
+    <Quote>25.9</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-02T00:00:00</ExpiryDate>
+    <AdditionalReference>000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004235</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>MOT</DealerCode>
+    <AccountNumber>8131161</AccountNumber>
+    <ClientCode>RTV478</ClientCode>
+    <State>O</State>
+    <Quantity>1800</Quantity>
+    <InstrumentCode>SVL</InstrumentCode>
+    <Quote>22</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100003171</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>MOT</DealerCode>
+    <AccountNumber>1269372</AccountNumber>
+    <ClientCode>AAA964</ClientCode>
+    <State>S</State>
+    <Quantity>1150</Quantity>
+    <InstrumentCode>MBICE</InstrumentCode>
+    <Quote>19.58</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2016-12-12T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004144</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>MOT</DealerCode>
+    <AccountNumber>1163393</AccountNumber>
+    <ClientCode>HWH416</ClientCode>
+    <State>S</State>
+    <Quantity>13600</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>41.9</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2016-12-19T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004147</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>MOT</DealerCode>
+    <AccountNumber>1190347</AccountNumber>
+    <ClientCode>IEA123</ClientCode>
+    <State>S</State>
+    <Quantity>1000</Quantity>
+    <InstrumentCode>NCBJ</InstrumentCode>
+    <Quote>18.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>1000</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2016-12-12T00:00:00</ExpiryDate>
+    <AdditionalReference>000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004148</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>NAA</DealerCode>
+    <AccountNumber />
+    <ClientCode>cyi943</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004149</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>NAA</DealerCode>
+    <AccountNumber />
+    <ClientCode>cyi943</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KLE</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004150</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>NAA</DealerCode>
+    <AccountNumber />
+    <ClientCode>cyi943</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004152</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>NCLM</MemberCode>
+    <DealerCode>NAA</DealerCode>
+    <AccountNumber />
+    <ClientCode>cyi943</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <Quote>650</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>API201610</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2016-12-31T00:00:00</ExpiryDate>
+    <AdditionalReference> </AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004222</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>8052912</AccountNumber>
+    <ClientCode>AAG196</ClientCode>
+    <State>A</State>
+    <Quantity>2500</Quantity>
+    <InstrumentCode>MIL</InstrumentCode>
+    <Quote>3.75</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004215</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854769</AccountNumber>
+    <ClientCode>WYT181</ClientCode>
+    <State>A</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>4.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004218</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1578467</AccountNumber>
+    <ClientCode>YBB238</ClientCode>
+    <State>A</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>4.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004224</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1723063</AccountNumber>
+    <ClientCode>AAC156</ClientCode>
+    <State>A</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>SJ</InstrumentCode>
+    <Quote>500</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-31T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004223</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>2923159</AccountNumber>
+    <ClientCode>YYJ916</ClientCode>
+    <State>A</State>
+    <Quantity>1200</Quantity>
+    <InstrumentCode>SIJL</InstrumentCode>
+    <Quote>26.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004216</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854769</AccountNumber>
+    <ClientCode>WYT181</ClientCode>
+    <State>A</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>27.5</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004252</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854751</AccountNumber>
+    <ClientCode>WGO111</ClientCode>
+    <State>A</State>
+    <Quantity>901</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>27.25</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-08T00:00:00</ExpiryDate>
+    <AdditionalReference>000000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004214</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1515915</AccountNumber>
+    <ClientCode>SJM773</ClientCode>
+    <State>A</State>
+    <Quantity>374</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>2.52</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000012</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000012</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004213</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1608769</AccountNumber>
+    <ClientCode>YYI459</ClientCode>
+    <State>A</State>
+    <Quantity>3253</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>2.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000009</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000009</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004221</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1433499</AccountNumber>
+    <ClientCode>AAG973</ClientCode>
+    <State>A</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>2.3</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000012</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>1600</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000012</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>4</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004225</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1799733</AccountNumber>
+    <ClientCode>OLO714</ClientCode>
+    <State>A</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>NCBJ</InstrumentCode>
+    <Quote>20</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-31T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004209</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854769</AccountNumber>
+    <ClientCode>WYT181</ClientCode>
+    <State>A</State>
+    <Quantity>150</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>15.56</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004219</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1578467</AccountNumber>
+    <ClientCode>YBB238</ClientCode>
+    <State>A</State>
+    <Quantity>800</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>15.52</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-03-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004220</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1747005</AccountNumber>
+    <ClientCode>SPR120</ClientCode>
+    <State>A</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>15.35</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-23T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004210</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1505718</AccountNumber>
+    <ClientCode>UJW304</ClientCode>
+    <State>O</State>
+    <Quantity>900</Quantity>
+    <InstrumentCode>SVL</InstrumentCode>
+    <Quote>20</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004211</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1522853</AccountNumber>
+    <ClientCode>RIJ984</ClientCode>
+    <State>O</State>
+    <Quantity>1500</Quantity>
+    <InstrumentCode>SVL</InstrumentCode>
+    <Quote>19.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004212</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1292945</AccountNumber>
+    <ClientCode>VUQ835</ClientCode>
+    <State>O</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SVL</InstrumentCode>
+    <Quote>21</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-05-30T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004091</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1608140</AccountNumber>
+    <ClientCode>SPK758</ClientCode>
+    <State>S</State>
+    <Quantity>800</Quantity>
+    <InstrumentCode>EPLY</InstrumentCode>
+    <Quote>0</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2016-12-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004246</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>DMV</DealerCode>
+    <AccountNumber>1136233</AccountNumber>
+    <ClientCode>AAJ800</ClientCode>
+    <State>A</State>
+    <Quantity>100000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>68.25</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004254</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>LDV</DealerCode>
+    <AccountNumber>1136233</AccountNumber>
+    <ClientCode>AAJ800</ClientCode>
+    <State>A</State>
+    <Quantity>100000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>67.56</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100004253</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>LDV</DealerCode>
+    <AccountNumber>1136233</AccountNumber>
+    <ClientCode>AAJ800</ClientCode>
+    <State>A</State>
+    <Quantity>1000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>67.55</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+</ArrayOfActiveOrderData>
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfActiveOrderData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ActiveOrderData>
+    <ActiveOrderId>100000715</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BARI</MemberCode>
+    <DealerCode>HWB</DealerCode>
+    <AccountNumber>1801802</AccountNumber>
+    <ClientCode>AAE396</ClientCode>
+    <State>S</State>
+    <Quantity>10000</Quantity>
+    <InstrumentCode>KEX</InstrumentCode>
+    <Quote>20</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-02T00:00:00</ExpiryDate>
+    <AdditionalReference>000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000308</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BARI</MemberCode>
+    <DealerCode>KAC</DealerCode>
+    <AccountNumber>1061555</AccountNumber>
+    <ClientCode>RRL283</ClientCode>
+    <State>S</State>
+    <Quantity>97164</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>61.5</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>97189</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000365</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BARI</MemberCode>
+    <DealerCode>KAC</DealerCode>
+    <AccountNumber>1178334</AccountNumber>
+    <ClientCode>KMG693</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>5.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000366</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BARI</MemberCode>
+    <DealerCode>KAC</DealerCode>
+    <AccountNumber>1061555</AccountNumber>
+    <ClientCode>RRL283</ClientCode>
+    <State>S</State>
+    <Quantity>1000</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>5.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000369</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BARI</MemberCode>
+    <DealerCode>KAC</DealerCode>
+    <AccountNumber>1061555</AccountNumber>
+    <ClientCode>RRL283</ClientCode>
+    <State>S</State>
+    <Quantity>5000</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>5.7</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000371</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BARI</MemberCode>
+    <DealerCode>KAC</DealerCode>
+    <AccountNumber>1061555</AccountNumber>
+    <ClientCode>RRL283</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>5.55</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000303</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1254333</AccountNumber>
+    <ClientCode>ZNQ004</ClientCode>
+    <State>S</State>
+    <Quantity>13</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>64.42</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000306</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1254333</AccountNumber>
+    <ClientCode>ZNQ004</ClientCode>
+    <State>S</State>
+    <Quantity>51</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>63.66</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000311</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1254333</AccountNumber>
+    <ClientCode>ZNQ004</ClientCode>
+    <State>S</State>
+    <Quantity>500000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>63.21</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>500000</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000355</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>2938868</AccountNumber>
+    <ClientCode>XBJ488</ClientCode>
+    <State>S</State>
+    <Quantity>9000000</Quantity>
+    <InstrumentCode>AMG</InstrumentCode>
+    <Quote>20.95</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000356</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>2938868</AccountNumber>
+    <ClientCode>XBJ488</ClientCode>
+    <State>S</State>
+    <Quantity>1</Quantity>
+    <InstrumentCode>AMG</InstrumentCode>
+    <Quote>20.95</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000357</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1241793</AccountNumber>
+    <ClientCode>OOY493</ClientCode>
+    <State>S</State>
+    <Quantity>9000000</Quantity>
+    <InstrumentCode>AMG</InstrumentCode>
+    <Quote>20.95</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000358</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1241793</AccountNumber>
+    <ClientCode>OOY493</ClientCode>
+    <State>S</State>
+    <Quantity>1</Quantity>
+    <InstrumentCode>AMG</InstrumentCode>
+    <Quote>20.95</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000621</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>2939783</AccountNumber>
+    <ClientCode>YNO592</ClientCode>
+    <State>S</State>
+    <Quantity>904900</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>65.29</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-18T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000670</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1899798</AccountNumber>
+    <ClientCode>PKN778</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.85</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-18T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000705</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1899798</AccountNumber>
+    <ClientCode>PKN778</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.83</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-18T00:00:00</ExpiryDate>
+    <AdditionalReference>000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>8</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000704</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1899798</AccountNumber>
+    <ClientCode>PKN778</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.83</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-18T00:00:00</ExpiryDate>
+    <AdditionalReference>000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>8</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000691</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>BIRM</MemberCode>
+    <DealerCode>MSW</DealerCode>
+    <AccountNumber>1899798</AccountNumber>
+    <ClientCode>PKN778</ClientCode>
+    <State>S</State>
+    <Quantity>20000</Quantity>
+    <InstrumentCode>JP</InstrumentCode>
+    <Quote>8.3</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>20000</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-18T00:00:00</ExpiryDate>
+    <AdditionalReference>000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>4</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000788</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>CCJ</DealerCode>
+    <AccountNumber>1249655</AccountNumber>
+    <ClientCode>WPG452</ClientCode>
+    <State>S</State>
+    <Quantity>125500</Quantity>
+    <InstrumentCode>1834</InstrumentCode>
+    <Quote>1.15</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>1000112</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-22T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000291</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>GLJ</DealerCode>
+    <AccountNumber>1271089</AccountNumber>
+    <ClientCode>QHK927</ClientCode>
+    <State>S</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.8</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>422</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000292</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>GLJ</DealerCode>
+    <AccountNumber>1271089</AccountNumber>
+    <ClientCode>QHK927</ClientCode>
+    <State>S</State>
+    <Quantity>10</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.8</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000359</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>JMMB</MemberCode>
+    <DealerCode>GLJ</DealerCode>
+    <AccountNumber>1271089</AccountNumber>
+    <ClientCode>QHK927</ClientCode>
+    <State>S</State>
+    <Quantity>10000000</Quantity>
+    <InstrumentCode>AMG</InstrumentCode>
+    <Quote>20.96</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000838</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1634856</AccountNumber>
+    <ClientCode>AAA330</ClientCode>
+    <State>O</State>
+    <Quantity>150</Quantity>
+    <InstrumentCode>138SL</InstrumentCode>
+    <Quote>5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-19T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000839</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1979780</AccountNumber>
+    <ClientCode>AAA357</ClientCode>
+    <State>O</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BRG</InstrumentCode>
+    <Quote>5.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-12T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000840</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1979780</AccountNumber>
+    <ClientCode>AAA357</ClientCode>
+    <State>O</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>138SLVR</InstrumentCode>
+    <Quote>5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000841</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1979780</AccountNumber>
+    <ClientCode>AAA357</ClientCode>
+    <State>O</State>
+    <Quantity>50</Quantity>
+    <InstrumentCode>138SLVR</InstrumentCode>
+    <Quote>5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000842</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MAYB</MemberCode>
+    <DealerCode>CCM</DealerCode>
+    <AccountNumber>1634856</AccountNumber>
+    <ClientCode>AAA330</ClientCode>
+    <State>O</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>NCBJ</InstrumentCode>
+    <Quote>59.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>HP0000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>HP0000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000290</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MVLS</MemberCode>
+    <DealerCode>DMM</DealerCode>
+    <AccountNumber>2941771</AccountNumber>
+    <ClientCode>AEO727</ClientCode>
+    <State>S</State>
+    <Quantity>2000</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.8</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>2000</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000309</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>MVLS</MemberCode>
+    <DealerCode>DMM</DealerCode>
+    <AccountNumber>2941771</AccountNumber>
+    <ClientCode>AEO727</ClientCode>
+    <State>S</State>
+    <Quantity>3300</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>65.83</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000410</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1531870</AccountNumber>
+    <ClientCode>AAG058</ClientCode>
+    <State>O</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>TTECH</InstrumentCode>
+    <Quote>5.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000144</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>25.02</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>9</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-09T00:00:00</ExpiryDate>
+    <AdditionalReference>9</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000186</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>25.02</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>9</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-09T00:00:00</ExpiryDate>
+    <AdditionalReference>9</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000139</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>22</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000181</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>22</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000120</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>CCC</InstrumentCode>
+    <Quote>50</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000118</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1905256</AccountNumber>
+    <ClientCode>AAF143</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>2</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-08T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000145</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>7.1</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000187</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>7.1</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000127</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>1050</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.5</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000169</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>1050</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.5</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000171</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>222</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.25</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000129</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>222</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.25</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000128</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.2</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000170</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.2</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000176</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000134</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>400</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000132</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000130</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000174</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000172</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000173</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000131</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000133</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>100</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000175</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.1</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>100</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000121</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.01</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000163</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>49.01</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000480</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1605674</AccountNumber>
+    <ClientCode>MQG082</ClientCode>
+    <State>S</State>
+    <Quantity>77</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>42</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>481</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-14T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000490</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>SJ</InstrumentCode>
+    <Quote>25.71</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000498</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>5.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000566</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>5.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000567</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>PROVEN JM</InstrumentCode>
+    <Quote>18.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000573</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>8117954</AccountNumber>
+    <ClientCode>QEO576</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>42</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-14T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000636</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>CPJ</InstrumentCode>
+    <Quote>4.1</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000643</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>CPJ</InstrumentCode>
+    <Quote>4.1</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000783</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1439629</AccountNumber>
+    <ClientCode>AAC352</ClientCode>
+    <State>S</State>
+    <Quantity>2000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>63</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-21T00:00:00</ExpiryDate>
+    <AdditionalReference>000000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>2048</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000652</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1278373</AccountNumber>
+    <ClientCode>QIH118</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>PJAM</InstrumentCode>
+    <Quote>24.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>15000</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>4</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000627</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>558</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>41.45</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>558</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000625</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>481</Quantity>
+    <InstrumentCode>GK</InstrumentCode>
+    <Quote>41.45</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>481</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000654</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>8117954</AccountNumber>
+    <ClientCode>QEO576</ClientCode>
+    <State>S</State>
+    <Quantity>800</Quantity>
+    <InstrumentCode>JMMBGL</InstrumentCode>
+    <Quote>13.6</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>5000</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>4</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000655</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1523091</AccountNumber>
+    <ClientCode>STC120</ClientCode>
+    <State>S</State>
+    <Quantity>800</Quantity>
+    <InstrumentCode>JMMBGL</InstrumentCode>
+    <Quote>13.6</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000008</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>800</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000008</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000646</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1515915</AccountNumber>
+    <ClientCode>ROY726</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>JMMBGL</InstrumentCode>
+    <Quote>13.6</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-12T00:00:00</ExpiryDate>
+    <AdditionalReference>000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000640</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>SJ</InstrumentCode>
+    <Quote>25.71</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000623</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1832690</AccountNumber>
+    <ClientCode>TLS789</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SJ</InstrumentCode>
+    <Quote>20</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000009</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-14T00:00:00</ExpiryDate>
+    <AdditionalReference>000000009</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000649</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1905256</AccountNumber>
+    <ClientCode>AAF143</ClientCode>
+    <State>S</State>
+    <Quantity>700</Quantity>
+    <InstrumentCode>JBG</InstrumentCode>
+    <Quote>14.83</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000634</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>21.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000642</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>21.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000651</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>21.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000002</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000002</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000633</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>KW</InstrumentCode>
+    <Quote>21.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000665</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1531870</AccountNumber>
+    <ClientCode>AAG058</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.85</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>300</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-16T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000650</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1531870</AccountNumber>
+    <ClientCode>AAG058</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>CWJ</InstrumentCode>
+    <Quote>0.8</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>500</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000626</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854744</AccountNumber>
+    <ClientCode>ULU366</ClientCode>
+    <State>S</State>
+    <Quantity>255</Quantity>
+    <InstrumentCode>SIJL</InstrumentCode>
+    <Quote>31</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000624</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854744</AccountNumber>
+    <ClientCode>ULU366</ClientCode>
+    <State>S</State>
+    <Quantity>155</Quantity>
+    <InstrumentCode>SIJL</InstrumentCode>
+    <Quote>31</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000629</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>CCC</InstrumentCode>
+    <Quote>28</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000737</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1564178</AccountNumber>
+    <ClientCode>ZZZ790</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>BIL</InstrumentCode>
+    <Quote>5.6</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>2048</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000635</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>100</Quantity>
+    <InstrumentCode>PROVEN JM</InstrumentCode>
+    <Quote>18.5</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000647</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1752104</AccountNumber>
+    <ClientCode>FES991</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>JP</InstrumentCode>
+    <Quote>8.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000632</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1905256</AccountNumber>
+    <ClientCode>AAF143</ClientCode>
+    <State>S</State>
+    <Quantity>3000</Quantity>
+    <InstrumentCode>JP</InstrumentCode>
+    <Quote>8.3</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>3000</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000641</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1905256</AccountNumber>
+    <ClientCode>AAF143</ClientCode>
+    <State>S</State>
+    <Quantity>3000</Quantity>
+    <InstrumentCode>JP</InstrumentCode>
+    <Quote>8.3</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>3000</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-07T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000630</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1560689</AccountNumber>
+    <ClientCode>ANN337</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>5.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000638</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1560689</AccountNumber>
+    <ClientCode>ANN337</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>5.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000739</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1905256</AccountNumber>
+    <ClientCode>AAF143</ClientCode>
+    <State>S</State>
+    <Quantity>600000</Quantity>
+    <InstrumentCode>1834</InstrumentCode>
+    <Quote>1.25</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000001</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000001</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000790</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1531870</AccountNumber>
+    <ClientCode>AAG058</ClientCode>
+    <State>S</State>
+    <Quantity>777</Quantity>
+    <InstrumentCode>RJR</InstrumentCode>
+    <Quote>1.45</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>777</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-05T00:00:00</ExpiryDate>
+    <AdditionalReference>000000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000662</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>RJR</InstrumentCode>
+    <Quote>1.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000628</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>RJR</InstrumentCode>
+    <Quote>1.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000637</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>RJR</InstrumentCode>
+    <Quote>1.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000661</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1304286</AccountNumber>
+    <ClientCode>AAA205</ClientCode>
+    <State>S</State>
+    <Quantity>200</Quantity>
+    <InstrumentCode>RJR</InstrumentCode>
+    <Quote>1.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000658</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1854553</AccountNumber>
+    <ClientCode>WPY576</ClientCode>
+    <State>S</State>
+    <Quantity>300</Quantity>
+    <InstrumentCode>SGJ</InstrumentCode>
+    <Quote>65.8</Quote>
+    <BuyOrSell>S</BuyOrSell>
+    <InTime />
+    <OrderReference>000000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000645</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>SCOT</MemberCode>
+    <DealerCode>CMS</DealerCode>
+    <AccountNumber>1704378</AccountNumber>
+    <ClientCode>PCD640</ClientCode>
+    <State>S</State>
+    <Quantity>85</Quantity>
+    <InstrumentCode>JAMT</InstrumentCode>
+    <Quote>4.26</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000011</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-06T00:00:00</ExpiryDate>
+    <AdditionalReference>000000011</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000720</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>DMV</DealerCode>
+    <AccountNumber>1651801</AccountNumber>
+    <ClientCode>GID012</ClientCode>
+    <State>S</State>
+    <Quantity>5000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>65.29</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000005</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>5000</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-19T00:00:00</ExpiryDate>
+    <AdditionalReference>000005</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000727</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>DMV</DealerCode>
+    <AccountNumber>1433895</AccountNumber>
+    <ClientCode>BGP289</ClientCode>
+    <State>S</State>
+    <Quantity>5000</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>65.29</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000006</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>5000</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-19T00:00:00</ExpiryDate>
+    <AdditionalReference>000006</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>32</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000731</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>DMV</DealerCode>
+    <AccountNumber>1573039</AccountNumber>
+    <ClientCode>GDP035</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>65.05</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000007</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-19T00:00:00</ExpiryDate>
+    <AdditionalReference>000007</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>2048</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000703</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>DMV</DealerCode>
+    <AccountNumber>1544642</AccountNumber>
+    <ClientCode>AAH533</ClientCode>
+    <State>S</State>
+    <Quantity>500</Quantity>
+    <InstrumentCode>JP</InstrumentCode>
+    <Quote>8.3</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000004</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-19T00:00:00</ExpiryDate>
+    <AdditionalReference>000004</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>2048</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000694</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>DMV</DealerCode>
+    <AccountNumber>1292143</AccountNumber>
+    <ClientCode>AAJ586</ClientCode>
+    <State>S</State>
+    <Quantity>1000</Quantity>
+    <InstrumentCode>JSE</InstrumentCode>
+    <Quote>5.4</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000000</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>20000000</IcebergQuantity>
+    <PrincipleAgency>80</PrincipleAgency>
+    <ExpiryDate>2017-06-19T00:00:00</ExpiryDate>
+    <AdditionalReference>000</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>4</BidType>
+  </ActiveOrderData>
+  <ActiveOrderData>
+    <ActiveOrderId>100000363</ActiveOrderId>
+    <ClearingMember>JSECC</ClearingMember>
+    <MemberCode>VMWM</MemberCode>
+    <DealerCode>LDV</DealerCode>
+    <AccountNumber>1459205</AccountNumber>
+    <ClientCode>PQZ083</ClientCode>
+    <State>S</State>
+    <Quantity>70</Quantity>
+    <InstrumentCode>CAR</InstrumentCode>
+    <Quote>66</Quote>
+    <BuyOrSell>B</BuyOrSell>
+    <InTime />
+    <OrderReference>000003</OrderReference>
+    <SubAccount />
+    <IcebergQuantity>0</IcebergQuantity>
+    <PrincipleAgency>65</PrincipleAgency>
+    <ExpiryDate>2017-06-13T00:00:00</ExpiryDate>
+    <AdditionalReference>000003</AdditionalReference>
+    <SiloReceiptNumber>0</SiloReceiptNumber>
+    <SiloLocationCode />
+    <GradeCode />
+    <CountryOfOriginCode />
+    <MustFill>false</MustFill>
+    <BidType>0</BidType>
+  </ActiveOrderData>
+</ArrayOfActiveOrderData>

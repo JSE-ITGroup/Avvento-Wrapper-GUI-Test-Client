@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Query>
+  <ReduceOrderQuantity>
+    <ActiveOrderId>100003866</ActiveOrderId>
+    <InstrumentCode>KLE</InstrumentCode>
+    <MemberCode>MAYB</MemberCode>
+    <BuyOrSell>B</BuyOrSell>
+    <Quantity>150</Quantity>
+  </ReduceOrderQuantity>
+</Query>

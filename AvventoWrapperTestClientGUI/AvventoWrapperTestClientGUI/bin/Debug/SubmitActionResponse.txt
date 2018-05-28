@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>516</ResponseCode>
+  <Message>Unable to locate client Code associated with the specified Account Number: The supplied client reference value: 1005586  cannot be found'</Message>
+  <Reason>The supplied Account Number could not be not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>516</ResponseCode>
+  <Message>Unable to locate client Code associated with the specified Account Number: The supplied client reference value: 113424  cannot be found'</Message>
+  <Reason>The supplied Account Number could not be not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: HL</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: MCL</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>502</ResponseCode>
+  <Message>Invalid Supplied Xml String</Message>
+  <Reason>Root Node '&lt;Query&gt;' is missing</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: KPREIT</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: EPLY</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: CAR</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: YHPE</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: YHPE</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SGJ</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Inserted</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>0</ResponseCode>
+  <Message>Success</Message>
+  <Reason>Order Inserted</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: SVL</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>512</ResponseCode>
+  <Message>Download active orders to verified operation Status.</Message>
+  <Reason>Operation Failed or timeout</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>502</ResponseCode>
+  <Message>Invalid Supplied Xml String</Message>
+  <Reason>Root Node '&lt;Query&gt;' is missing</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: FOSRICH</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>
+<?xml version="1.0" encoding="utf-16"?>
+<ActionResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResponseCode>511</ResponseCode>
+  <Message>Unable to locate Instrument associated with the specified Instrument Code: FOSRICH</Message>
+  <Reason>The supplied Instrument code is not found.</Reason>
+</ActionResponse>

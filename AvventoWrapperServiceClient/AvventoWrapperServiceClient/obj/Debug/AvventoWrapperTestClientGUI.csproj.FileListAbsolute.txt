@@ -1,0 +1,12 @@
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe.config
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.pdb
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.Form1.resources
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.Properties.Resources.resources
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.csproj.GenerateResource.Cache
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.exe
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.pdb
+C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.ClientLoginForm.resources
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe.config
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.exe
+C:\My Projects\AvventoWrapperTestClientGUI - Copy\AvventoWrapperTestClientGUI\obj\Debug\AvventoWrapperTestClientGUI.pdb

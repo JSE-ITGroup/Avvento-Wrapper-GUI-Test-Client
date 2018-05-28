@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: AvventoWrapperTestClientGUI, Configuration: Debug Any CPU ------
+1>C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\ClientLoginForm.cs(56,20,56,32): warning CS0219: The variable 'actionResult' is assigned but its value is never used
+1>C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\ClientLoginForm.cs(135,20,135,27): warning CS0168: The variable 'tObject' is declared but never used
+1>C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\Form1.cs(430,20,430,32): warning CS0219: The variable 'actionResult' is assigned but its value is never used
+1>C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\Form1.cs(547,28,547,42): warning CS0168: The variable 'actionresponse' is declared but never used
+1>C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\Helpers\XmlHelper.cs(56,30,56,32): warning CS0168: The variable 'ex' is declared but never used
+1>  AvventoWrapperTestClientGUI -> C:\My Projects\AvventoWrapperTestClientGUI\AvventoWrapperTestClientGUI\bin\Debug\AvventoWrapperTestClientGUI.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
